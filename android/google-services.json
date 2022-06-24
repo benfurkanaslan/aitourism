@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1052038280961",
+    "project_id": "aitourism-a6ea3",
+    "storage_bucket": "aitourism-a6ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052038280961:android:7591c6f20d744c89d0cd00",
+        "android_client_info": {
+          "package_name": "com.fuasl.aitourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052038280961-q8jrs6ng8lknnj8d1p2hhehuhb67m9m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fuasl.aitourism",
+            "certificate_hash": "44656152438fba8b5dbbecea4d3c19f5431fc7c1"
+          }
+        },
+        {
+          "client_id": "1052038280961-g7atd403pqhuh12fmg1nb6nfbcvda5ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkodM-8Nl9dUq3Psl7rZHfCKvtqwtg0c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052038280961-g7atd403pqhuh12fmg1nb6nfbcvda5ag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052038280961-s8q0r8kl1ppjpstqjtpd2m8urkfpdsns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fuasl.aitourism"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
